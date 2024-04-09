@@ -1,5 +1,4 @@
 // EventDetails.tsx
-import React from 'react';
 
 const EventDetails = () => {
   // Dummy data for the event
